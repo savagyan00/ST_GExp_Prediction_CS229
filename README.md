@@ -1,5 +1,5 @@
 ## Integrating Histology Imaging and Spatial Transcriptomics through Low-Dimensional Embeddings to Predict Gene Expression Patterns
-# Authors 
+## Authors 
  - Susie Avagyan: savagyan@stanford.edu
  - Gaurav Anand: gauvand9@stanford.edu
  - Lauren Cooper: cooperlc@stanford.edu
