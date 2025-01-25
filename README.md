@@ -5,7 +5,7 @@
  - Lauren Cooper: cooperlc@stanford.edu
 
 <p align="center">
-  <img width="500" src="graphical abstract.jpeg"> 
+  <img width="700" src="graphical abstract.jpeg"> 
 </p>
 
 
