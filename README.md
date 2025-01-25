@@ -4,6 +4,10 @@
  - Gaurav Anand: gauvand9@stanford.edu
  - Lauren Cooper: cooperlc@stanford.edu
 
+<p align="center">
+  <img width="500" src="graphical abstract.jpeg"> 
+</p>
+
 
 ## Abstract
 
